@@ -99,6 +99,8 @@ app.get("/personas", async function (req, res) {
   }
 });
 
+console.log(personas)
+
 
 // Por nombre: http://localhost:8088/persona?nombre=Brenda
 // Nombre y apellido: http://localhost:8088/persona?apellido=Martinez&nombre=Daniela
