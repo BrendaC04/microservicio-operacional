@@ -11,7 +11,7 @@ git y github
 node.js
 Visual Studio Code o Sublime Text
 
-## Setup Local
+## Setup
 
 En una ventana de la terminal ubicas la raíz del proyecto
 
@@ -20,7 +20,3 @@ npm i
 - Corremos el proyecto con alguno de estos comandos
 npm start
 - Visitar "localhost:" con el puerto asignado
-
-## Deploy en producción
--
-
